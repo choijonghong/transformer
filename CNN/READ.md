@@ -28,13 +28,10 @@
 
 
 ### 테스트 결과
-*  <img width="816" height="766" alt="image" src="https://github.com/user-attachments/assets/73b01e27-10e1-4370-bdf7-c55acb3ac934" />
+* <img width="1059" height="515" alt="image" src="https://github.com/user-attachments/assets/a098e25a-cf88-4035-af98-b03fb9128128" />
+* <img width="816" height="766" alt="image" src="https://github.com/user-attachments/assets/73b01e27-10e1-4370-bdf7-c55acb3ac934" />
 
   
-### Transformer 코드
-* 논문명: Attention is All you needs
-* 개요: Transformer 알고리즘 바탕으로 영한 번역기 모델
-* 코드명: transfomer_eg.ipynb
 
 
 
