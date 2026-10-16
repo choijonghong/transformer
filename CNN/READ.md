@@ -21,7 +21,9 @@
 * ﻿Total params: 1,276,234 (4.87 MB): 모델의 가중치는 약 128만 개입니다. 각 파라미터가 float32(4바이트)라서 약 4.87MB가 됩니다
 * Trainable params: 학습 중에 업데이트되는 파라미터입니다. 전체가 학습 대상입니다.
 * Non-trainable params: 0: 고정된 가중치가 없습니다. 사전학습 모델을 얼린(freeze) 부분이 없으니 처음부터 학습하는 모델입니다.
-* 코드명: Style_Transfer_Tutorial의_사본.ipynb
+* <img width="783" height="324" alt="image" src="https://github.com/user-attachments/assets/46e5de68-f8e9-4887-b8cb-d1bceb457bac" />
+* <img width="783" height="409" alt="image" src="https://github.com/user-attachments/assets/2bcdb2f0-ae73-4538-a672-c8f8c95877ef" />
+
 
 ### GAN 코드
 * ﻿논문: Generative Adversarial Nets(Ian Goodfellow et al., 2014)
