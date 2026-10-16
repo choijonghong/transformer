@@ -27,10 +27,9 @@
 * 313/313 - 2s - 6ms/step - accuracy: 0.7501 - loss: 1.0231
 
 
-### GAN 코드
-* ﻿논문: Generative Adversarial Nets(Ian Goodfellow et al., 2014)
-* ﻿가짜 이미지를 만드는 화가(생성자)와 이를 잡아내는 심사위원(판별자)이 서로 겨루며 점점 더 정교한 이미지를 만들어내는 인공지능 코드
-* 코드명: GAN.ipynb
+### 테스트 결과
+*  <img width="816" height="766" alt="image" src="https://github.com/user-attachments/assets/73b01e27-10e1-4370-bdf7-c55acb3ac934" />
+
   
 ### Transformer 코드
 * 논문명: Attention is All you needs
