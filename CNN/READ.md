@@ -23,6 +23,8 @@
 * Non-trainable params: 0: 고정된 가중치가 없습니다. 사전학습 모델을 얼린(freeze) 부분이 없으니 처음부터 학습하는 모델입니다.
 * <img width="783" height="324" alt="image" src="https://github.com/user-attachments/assets/46e5de68-f8e9-4887-b8cb-d1bceb457bac" />
 * <img width="783" height="409" alt="image" src="https://github.com/user-attachments/assets/2bcdb2f0-ae73-4538-a672-c8f8c95877ef" />
+* Model training finished.
+* 313/313 - 2s - 6ms/step - accuracy: 0.7501 - loss: 1.0231
 
 
 ### GAN 코드
