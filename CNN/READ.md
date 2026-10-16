@@ -15,10 +15,12 @@
 * 출력층(Dense 10)**은 사진을 10가지 종류로 분류하며, **Param #**은 각 층에서 학습할 가중치와 편향의 개수를 나타낸다.
 
 
-### Image Style Transfer 코드
-* ﻿논문: Image Style Transfer Using Convolutional Neural Networks (CVPR 2016)
-* ﻿한 이미지의 ‘내용(content)’과 다른 이미지의 ‘스타일(style)’을 결합해서새로운 이미지를 만들어내는 기술을 제안
-* 예시) 반 고흐의 화풍으로 그린 파리 거리의 그림
+### 학습 로그
+<img width="979" height="490" alt="image" src="https://github.com/user-attachments/assets/68f9083a-fce2-4936-b646-090b85231eb3" />
+
+* ﻿Total params: 1,276,234 (4.87 MB): 모델의 가중치는 약 128만 개입니다. 각 파라미터가 float32(4바이트)라서 약 4.87MB가 됩니다
+* Trainable params: 학습 중에 업데이트되는 파라미터입니다. 전체가 학습 대상입니다.
+* Non-trainable params: 0: 고정된 가중치가 없습니다. 사전학습 모델을 얼린(freeze) 부분이 없으니 처음부터 학습하는 모델입니다.
 * 코드명: Style_Transfer_Tutorial의_사본.ipynb
 
 ### GAN 코드
