@@ -1,5 +1,5 @@
-# 출력
-<img width="1531" height="640" alt="image" src="https://github.com/user-attachments/assets/d88ec939-15dc-4ac3-80f2-4060ce58bf8d" />
+### 출력: CNN 인공지능 학습을 위한 CIFAR-10 데이터 준비 및 시각화
+* <img width="1531" height="640" alt="image" src="https://github.com/user-attachments/assets/d88ec939-15dc-4ac3-80f2-4060ce58bf8d" />
 * TensorFlow 2.19.0을 사용하여 CNN 인공지능 프로그램을 실행하였다.
 * CIFAR-10 사진 60,000장을 불러와 학습용 50,000장과 테스트용 10,000장으로 구분하였다.
 * 각 사진은 32×32픽셀의 컬러 이미지이며, 정답은 10개 종류로 구분된다.
