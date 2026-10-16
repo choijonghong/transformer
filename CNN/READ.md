@@ -1,7 +1,9 @@
 # 출력
 <img width="1531" height="640" alt="image" src="https://github.com/user-attachments/assets/d88ec939-15dc-4ac3-80f2-4060ce58bf8d" />
-* CIFAR-10 이미지 데이터를 불러오고, 사진 10장을 출력한 뒤 CNN 모델 구성시작
-
+* TensorFlow 2.19.0을 사용하여 CNN 인공지능 프로그램을 실행하였다.
+* CIFAR-10 사진 60,000장을 불러와 학습용 50,000장과 테스트용 10,000장으로 구분하였다.
+* 각 사진은 32×32픽셀의 컬러 이미지이며, 정답은 10개 종류로 구분된다.
+* 학습용 사진 10장을 화면에 출력하고, 사진 아래에 고양이·자동차·개구리 등의 정답을 표시하였다.
 
 ### CIFAR-10 CNN(AlexNet 기반) 코드
 * 논문: ImageNet Classification with Deep Convolutional Neural Networks(깊은 컨볼루션 신경망을 사용한 ImageNet 분류)
